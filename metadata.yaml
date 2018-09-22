@@ -1,0 +1,24 @@
+_repo: Kirkkoisa-Augustinuksen-Tunnustukset_54559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Augustine, Saint, Bishop of Hippo
+    alias: Augustine, Saint
+    birthdate: 354
+    deathdate: 430
+    gutenberg_agent_id: '1156'
+    url: http://www.gutenberg.org/2009/agents/1156
+    wikipedia: http://en.wikipedia.org/wiki/Augustine_of_Hippo
+description: ''
+gutenberg_issued: '2017-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54559'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kirkkoisä Augustinuksen Tunnustukset
+url: http://www.gutenberg.org/ebooks/54559
